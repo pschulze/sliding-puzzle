@@ -1,0 +1,17 @@
+{
+  "Lua": {
+    "diagnostics": {
+      "globals": [
+        "cls",
+        "map",
+        "spr",
+        "btnp",
+        "add",
+        "flr",
+        "rnd",
+        "poke",
+        "printh"
+      ]
+    }
+  }
+}
